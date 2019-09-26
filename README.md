@@ -1,2 +1,2 @@
 # MusicApp-RecommenderSystem-FriendNetwork
-Recommender System that recommends user the top 10 most popular songs and the top 10 songs within their friend group. Friend Network System to find mutual friends and whether two users are friends. Algorithm includes Graph. 
+Recommender System recommends top 10 most popular songs and the top 10 songs within user's friend group. Friend Network System finds mutual friends and confirms whether two users are friends. Algorithm includes Graph, Hashmap, HashSet. Junit tests are included. 
